@@ -1,6 +1,6 @@
 import './App.css'
 import ItemListContainer from './components/ItemListContainer'
-import NavbarContainer from './components/navbarContainer'
+import NavbarContainer from './components/NavbarContainer'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import { BrowserRouter, Routes, Route } from 'react-router'
 import ProductDetailContainer from './components/ProductDetailContainer'
